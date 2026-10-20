@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2610.25309"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg" alt="arXiv"></a>
   <a href="https://senri-video.github.io/"><img src="https://img.shields.io/badge/Homepage-SENRI-blue.svg" alt="Homepage"></a>
   <a href="https://huggingface.co/datasets/lannn2333/senri-bench/tree/main"><img src="https://img.shields.io/badge/🤗%20Dataset-SENRI--Bench-yellow" alt="Dataset"></a>
 </p>
